@@ -1,0 +1,6 @@
+org.springframework.test.context.ContextCustomizerFactory = com.bci.\
+    apexieventprod.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    bci.apexieventprod.config.TestContainersSpringContextCustomizerFactory,com.\
+    bci.apexieventprod.config.\
+    RedisTestContainersSpringContextCustomizerFactory,com.bci.apexieventprod.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
