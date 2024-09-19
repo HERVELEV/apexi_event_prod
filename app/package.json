@@ -1,0 +1,12 @@
+{
+  "name": "mon_app",
+  "version": "1.0.0",
+  "description": "Une application Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ng"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
